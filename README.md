@@ -1,70 +1,88 @@
-# Getting Started with Create React App
+# React-Task-Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> First React project. Following Traversy Media Tutorial.
 
-## Available Scripts
+## Game:
+![ScreenShot](./Screenshot.png)
 
-In the project directory, you can run:
 
-### `yarn start`
+The whole tutorial [YouTube Video](https://youtu.be/w7ejDZ8SWv8)
+## Built With
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- JavaScript (ES6)
+- React.JS
+- Node.js
+- json-server
+- React-Router-DOM
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Live Demo
 
-### `yarn test`
+- [Click on this link](https://bismarck-gm.github.io/JS-Capstone-Phaser/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Getting Started
 
-### `yarn build`
+### Prerequisites
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Node.js
+- Any Browser
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To get started open the directory where you will save this repo by typing on your terminal:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+$ cd <directory>
+```
 
-### `yarn eject`
+- Clone the repo typing:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```
+$ git clone git@github.com:Bismarck-GM/task-tracker-app.git
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Install dependencies:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+After cloning move into the recently created folder (task-tracker-app) and run
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```
+$ npm install
+```
 
-## Learn More
+### Usage
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Start the JSON-Server:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
+$ npm run server
+```
 
-### Code Splitting
+Start the React server:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```
+$ npm start
+```
 
-### Analyzing the Bundle Size
+A new browser tab/window will open up after the server is initiated.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Author
 
-### Making a Progressive Web App
+👤 **Gerónimo Morisot**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- Github: [@Bismarck-GM](https://github.com/Bismarck-GM)
+- Twitter: [@Rewritablee](https://twitter.com/Rewritablee)
+- LinkedIn: [Geronimo Morisot](https://linkedin.com/in/geronimomorisot)
 
-### Advanced Configuration
+## 🤝 Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Contributions, issues and feature requests are welcome!
 
-### Deployment
+## Show your support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Give a ⭐️ if you like this project!
+Feel free to check the [issues page](issues/).
 
-### `yarn build` fails to minify
+## Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Thanks Traversy Media for this useful tutorial [Traversy Media](https://www.traversymedia.com/).
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
