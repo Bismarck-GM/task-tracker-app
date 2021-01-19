@@ -2,7 +2,7 @@
 
 > First React project. Following Traversy Media Tutorial.
 
-## Game:
+## Screenshot:
 ![ScreenShot](./Screenshot.png)
 
 
@@ -14,10 +14,6 @@ The whole tutorial [YouTube Video](https://youtu.be/w7ejDZ8SWv8)
 - Node.js
 - json-server
 - React-Router-DOM
-
-## Live Demo
-
-- [Click on this link](https://bismarck-gm.github.io/JS-Capstone-Phaser/)
 
 ## Getting Started
 
