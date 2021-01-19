@@ -17,12 +17,6 @@
       "text": "Doctors Appointment",
       "day": "Feb 5th at 5:30pm",
       "reminder": false
-    },
-    {
-      "text": "Hola loco",
-      "day": "A alguna hora",
-      "reminder": false,
-      "id": 4
     }
   ]
 }
